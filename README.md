@@ -1,6 +1,4 @@
-<h1 align="center"><img src="https://cdn.emojidex.com/emoji/seal/rupee.png" alt="rupee" title="rupee" style="zoom:25%" /></h1>
-
-<h2 align="center"> Hyrule Bank </h2>
+<h1 align="center"> Hyrule Bank </h1>
 
 
 
@@ -54,6 +52,8 @@ $ cd hyrule-bank
 ````bash
 $ dotnet run
 ````
+
+
 ---
 
 Desenvolvido com :heart: por Lyllyanny França.
