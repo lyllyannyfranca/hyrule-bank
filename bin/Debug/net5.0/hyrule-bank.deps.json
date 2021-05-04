@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "hyrule-bank/1.0.0": {
+        "runtime": {
+          "hyrule-bank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hyrule-bank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

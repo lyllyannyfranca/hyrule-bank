@@ -1,0 +1,16 @@
+C:\Users\lylly\Desktop\workspace\hyrule-bank\bin\Debug\net5.0\hyrule-bank.exe
+C:\Users\lylly\Desktop\workspace\hyrule-bank\bin\Debug\net5.0\hyrule-bank.deps.json
+C:\Users\lylly\Desktop\workspace\hyrule-bank\bin\Debug\net5.0\hyrule-bank.runtimeconfig.json
+C:\Users\lylly\Desktop\workspace\hyrule-bank\bin\Debug\net5.0\hyrule-bank.runtimeconfig.dev.json
+C:\Users\lylly\Desktop\workspace\hyrule-bank\bin\Debug\net5.0\hyrule-bank.dll
+C:\Users\lylly\Desktop\workspace\hyrule-bank\bin\Debug\net5.0\ref\hyrule-bank.dll
+C:\Users\lylly\Desktop\workspace\hyrule-bank\bin\Debug\net5.0\hyrule-bank.pdb
+C:\Users\lylly\Desktop\workspace\hyrule-bank\obj\Debug\net5.0\hyrule-bank.csprojAssemblyReference.cache
+C:\Users\lylly\Desktop\workspace\hyrule-bank\obj\Debug\net5.0\hyrule-bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylly\Desktop\workspace\hyrule-bank\obj\Debug\net5.0\hyrule-bank.AssemblyInfoInputs.cache
+C:\Users\lylly\Desktop\workspace\hyrule-bank\obj\Debug\net5.0\hyrule-bank.AssemblyInfo.cs
+C:\Users\lylly\Desktop\workspace\hyrule-bank\obj\Debug\net5.0\hyrule-bank.csproj.CoreCompileInputs.cache
+C:\Users\lylly\Desktop\workspace\hyrule-bank\obj\Debug\net5.0\hyrule-bank.dll
+C:\Users\lylly\Desktop\workspace\hyrule-bank\obj\Debug\net5.0\ref\hyrule-bank.dll
+C:\Users\lylly\Desktop\workspace\hyrule-bank\obj\Debug\net5.0\hyrule-bank.pdb
+C:\Users\lylly\Desktop\workspace\hyrule-bank\obj\Debug\net5.0\hyrule-bank.genruntimeconfig.cache
